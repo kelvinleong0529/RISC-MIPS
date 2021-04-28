@@ -1,0 +1,23 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/arch_labs/lab06/lab06.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sim_1/new/top_tb.v,1607883552,verilog,,,,top_tb,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/ALURes.v,1607839752,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/ALU_ctr.v,,ALURes,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/ALU_ctr.v,1607840492,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/Ctr.v,,ALUCtr,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/Ctr.v,1607839519,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/new/EX_reg.v,,ctr,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/Memory.v,1607839847,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/new/PC.v,,Memory,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/Registers.v,1607842187,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/new/branch.v,,Registers,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/signext.v,1607839481,verilog,,E:/arch_labs/lab06/lab06.srcs/sim_1/new/top_tb.v,,signext,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/new/InstMemory.v,1607692283,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/new/MEM_reg.v,,InstMemory,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/new/PC.v,1607772529,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/Registers.v,,PC,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/new/mux1.v,1607846541,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/new/mux2.v,,mux1,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/new/mux2.v,1607839876,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/new/mux3.v,,mux2,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/new/mux3.v,1607844588,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/new/mux4.v,,mux3,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/new/EX_reg.v,1607839707,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/new/ID_reg.v,,part_reg3,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/new/ID_reg.v,1607830897,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/new/IF_reg.v,,part_reg2,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/new/IF_reg.v,1607837620,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/new/InstMemory.v,,part_reg1,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/new/MEM_reg.v,1607830920,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/Memory.v,,part_reg4,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/new/branch.v,1607838916,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/new/mux1.v,,branch,,,,,,,,
+E:/arch_labs/lab06/lab06.srcs/sources_1/new/mux4.v,1607840099,verilog,,E:/arch_labs/lab06/lab06.srcs/sources_1/imports/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/signext.v,,mux4,,,,,,,,

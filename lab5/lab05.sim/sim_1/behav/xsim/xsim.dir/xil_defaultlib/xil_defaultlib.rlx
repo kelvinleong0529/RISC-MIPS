@@ -1,0 +1,21 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/arch_labs/lab05/lab05.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sim_1/new/PC_tb.v,1607677292,verilog,,,,PC_tb,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sim_1/new/test1.v,1607668634,verilog,,,,test1,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sim_1/new/top_tb.v,1607702350,verilog,,,,top,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/ALURes.v,1607676398,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/ALU_ctr.v,,ALURes,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/ALU_ctr.v,1607612544,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/Ctr.v,,ALUCtr,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/Ctr.v,1607613039,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/new/InstMemory.v,,ctr,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/Memory.v,1607667050,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/new/PC.v,,Memory,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/Registers.v,1607664992,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/new/mux1.v,,Registers,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/signext.v,1607612889,verilog,,E:/arch_labs/lab05/lab05.srcs/sim_1/new/top_tb.v,,signext,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/new/InstMemory.v,1607692283,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/Memory.v,,InstMemory,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/new/PC.v,1607677312,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/Registers.v,,PC,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/new/mux1.v,1607610200,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/new/mux2.v,,mux1,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/new/mux2.v,1607610405,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/new/mux3.v,,mux2,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/new/mux3.v,1607610643,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/new/mux4.v,,mux3,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/new/mux4.v,1607677573,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/new/mux5.v,,mux4,,,,,,,,
+E:/arch_labs/lab05/lab05.srcs/sources_1/new/mux5.v,1607677593,verilog,,E:/arch_labs/lab05/lab05.srcs/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/signext.v,,mux5,,,,,,,,

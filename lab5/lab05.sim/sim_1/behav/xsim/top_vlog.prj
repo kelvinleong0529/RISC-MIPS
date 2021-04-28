@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab05.srcs/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/ALURes.v" \
+"../../../../lab05.srcs/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/ALU_ctr.v" \
+"../../../../lab05.srcs/sources_1/imports/arch_labs/lab03/lab03.srcs/sources_1/new/Ctr.v" \
+"../../../../lab05.srcs/sources_1/new/InstMemory.v" \
+"../../../../lab05.srcs/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/Memory.v" \
+"../../../../lab05.srcs/sources_1/new/PC.v" \
+"../../../../lab05.srcs/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/Registers.v" \
+"../../../../lab05.srcs/sources_1/new/mux1.v" \
+"../../../../lab05.srcs/sources_1/new/mux2.v" \
+"../../../../lab05.srcs/sources_1/new/mux3.v" \
+"../../../../lab05.srcs/sources_1/new/mux4.v" \
+"../../../../lab05.srcs/sources_1/new/mux5.v" \
+"../../../../lab05.srcs/sources_1/imports/arch_labs/lab04/lab04.srcs/sources_1/new/signext.v" \
+"../../../../lab05.srcs/sim_1/new/top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

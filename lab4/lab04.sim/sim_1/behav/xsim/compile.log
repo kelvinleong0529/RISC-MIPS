@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch_labs/lab04/lab04.srcs/sources_1/new/Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch_labs/lab04/lab04.srcs/sim_1/new/mem_tb2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem_tb2
